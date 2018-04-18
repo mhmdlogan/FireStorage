@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "834382185260",
+    "firebase_url": "https://firestorage-82e4d.firebaseio.com",
+    "project_id": "firestorage-82e4d",
+    "storage_bucket": "firestorage-82e4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834382185260:android:79f61b1a3cd8a376",
+        "android_client_info": {
+          "package_name": "com.firestorage.mhmdlogan.firestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834382185260-bue7c9pk673kk6jiotn19iimbt9pr8dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWsv9uJU1ztQDhPE02nRmBmOoH5fs9EZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
